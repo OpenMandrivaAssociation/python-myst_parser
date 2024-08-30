@@ -1,5 +1,5 @@
 Name:		python-myst_parser
-Version:	2.0.0
+Version:	4.0.0
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/m/myst_parser/myst_parser-%{version}.tar.gz
 Summary:	An extended [CommonMark](https://spec.commonmark.org/) compliant parser
